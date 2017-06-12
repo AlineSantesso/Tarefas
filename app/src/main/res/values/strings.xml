@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarefas</string>
+    <string name="title_activity_formulario">Tarefa</string>
+    <string name="title_activity_detalhe">Detalhe</string>
+</resources>
